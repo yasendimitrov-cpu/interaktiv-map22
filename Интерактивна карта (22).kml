@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Интерактивна карта</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Русе</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/baba-tonka" class="custom-female-link" target="_top" rel="nofollow ugc">Баба Тонка</a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.595802,44.0665532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Търново</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/bona-stancheva" class="custom-female-link" target="_top" rel="nofollow ugc">Бона Ганева Станчева</a><a href="https://ferret-denim-4e9d.squarespace.com/774346901077" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Венета Ботева&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Генчеваца Абаджийката&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;игуменка Зиновия&nbsp;</a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            26.8119725,42.8389974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Горна Оряховица</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/elena-grancharova" class="custom-female-link" target="_top" rel="nofollow ugc">Елена Грънчарова</a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.1895838,43.0580069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Казънлък</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/001679505376" class="custom-female-link" target="_top" rel="nofollow ugc">Тодора Меразчиева</a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            26.4793294,42.377686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Сопот</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/stanislava-karaivanova" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Станислава Караиванова&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/372206392414" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Гана Найденова&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/new-page-2" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Мария Българова&nbsp;</a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            25.7635091,42.4527248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Копривщица</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/824525996448" class="custom-female-link" target="_top" rel="nofollow ugc">Евлампия Векилова </a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            25.1131011,42.3922308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Панагюрище</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/rajna-knqginq" class="custom-female-link" target="_top" rel="nofollow ugc">Райна Княгиня</a><a href="https://ferret-denim-4e9d.squarespace.com/nedelya-balabanova" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Неделя Балабанова&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Мина Хаджистоянова Билиндрекова&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Мария Тричкова&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Нена Дудекова&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Мария Ганева&nbsp;</a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            25.1183996,42.186803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пазарджик</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/034770120168" class="custom-female-link" target="_top" rel="nofollow ugc">Цвета Зографска</a><a href="https://ferret-denim-4e9d.squarespace.com/maria-sutic" class="custom-female-link" target="_top" rel="nofollow ugc">Мария Ангелова Сутич</a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            25.119953,41.786912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Батак</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/hristina-hranova" class="custom-female-link" target="_top" rel="nofollow ugc">Христина Хранова</a><a href="https://ferret-denim-4e9d.squarespace.com/lady-emily-strangford" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Лейди Емили Странгфорд&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Ангелина Станкова Божинова&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Лаза Богданова&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Фота Манчова&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;София Вранкова&nbsp;</a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            24.9920607,41.4018645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ново Село</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/kokon-tasha-1" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Стоянка Драгованска&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;София&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Елисавета&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Ефросиния&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Христина&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Калиста&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Екатерина&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;мирянката Сусана Чорбаджиева&nbsp;</a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            26.1104114,42.6715814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Бяла Черква</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/kirovi" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Ирина и Димитра Кирилови&nbsp;</a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            26.6174254,43.1686763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Перущица</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/kokon-tasha-1-1" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Анка Райкова и Велика Стоянови&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Пауна Миткова&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Спаса Наскова&nbsp;</a><a href="https://ferret-denim-4e9d.squarespace.com/oshte-geroini" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Янина Стоянова Канева&nbsp;</a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            25.491008,41.580531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Сливен</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/kokon-tasha" class="custom-female-link" target="_top" rel="nofollow ugc">&nbsp;Кокон Таша&nbsp;</a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            27.9726577,42.5037233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Трявна</name>
+        <description><![CDATA[<a href="https://ferret-denim-4e9d.squarespace.com/185855458493" class="custom-female-link" target="_top" rel="nofollow ugc">Иванка Кънчева-Горова</a><a href="https://ferret-denim-4e9d.squarespace.com/827996651592" class="custom-female-link" target="_top" rel="nofollow ugc">Кина Кънчева</a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            26.83638,42.7179617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>
